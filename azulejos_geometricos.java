@@ -15,9 +15,9 @@ public class azulejos_geometricos {
         String[] estados = new String[10];
         int total = 0;
         int opcion;
-        //---------------------------------------//
+        //--------------------------------------------//
         //--|menu_principal_de_azulejos_geometricos|--//
-        //-----------------------------------//
+        //--------------------------------------------//
         do {
             System.out.println("menu principal de azulejos geometricos");
             System.out.println("1) Registrar azulejo");
